@@ -10,7 +10,6 @@ import java.util.List;
 
 // 暴露服务
 @Service
-@Component
 public class UserServiceImpl implements UserService {
     @Override
     public List<UserAddress> getUserAddressList(String userId) {

@@ -1,1 +1,4 @@
 .idea/
+order-service-consumer/target/
+shop-api-common/target/
+user-service-provider/target/
